@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-export const Watchlits = () =>{
+export const Watchlist = () =>{
     return(
         <div>
             <h1>Watchlist Page</h1>
